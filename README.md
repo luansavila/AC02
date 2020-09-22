@@ -29,5 +29,5 @@ Cesta básica
 | Manga 	| Malancia  	| Carne 	|
 
 
-![DonaBenta](https://www.instagram.com/cozinhadonabenta/?hl=en)
+![DonaBenta](http://www.cozinhadonabenta.com.br/)
 ![Luan Santos](https://github.com/luansavila)
